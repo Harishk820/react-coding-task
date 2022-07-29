@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+//import "./Style.css";
 function RecieptDetail() {
   const [detail, setdetail] = useState({
     date: "",
